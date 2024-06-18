@@ -22,13 +22,13 @@ Have fun!
 Here are links to each post:
 
   * [Part 1. Introduction to assembly](https://github.com/0xAX/asm/blob/master/content/asm_1.md)
-  * [Say hello to x86_64 Assembly part 2](https://0xax.github.io/asm_2/)
-  * [Say hello to x86_64 Assembly part 3](https://0xax.github.io/asm_3/)
-  * [Say hello to x86_64 Assembly part 4](https://0xax.github.io/asm_4/)
-  * [Say hello to x86_64 Assembly part 5](https://0xax.github.io/asm_5/)
-  * [Say hello to x86_64 Assembly part 6](https://0xax.github.io/asm_6/)
-  * [Say hello to x86_64 Assembly part 7](https://0xax.github.io/asm_7/)
-  * [Say hello to x86_64 Assembly part 8](https://0xax.github.io/asm_8/)
+  * [Say hello to x86_64 Assembly part 2](https://github.com/0xAX/asm/blob/master/content/asm_2.md)
+  * [Say hello to x86_64 Assembly part 3](https://github.com/0xAX/asm/blob/master/content/asm_3.md)
+  * [Say hello to x86_64 Assembly part 4](https://github.com/0xAX/asm/blob/master/content/asm_4.md)
+  * [Say hello to x86_64 Assembly part 5](https://github.com/0xAX/asm/blob/master/content/asm_5.md)
+  * [Say hello to x86_64 Assembly part 6](https://github.com/0xAX/asm/blob/master/content/asm_6.md)
+  * [Say hello to x86_64 Assembly part 7](https://github.com/0xAX/asm/blob/master/content/asm_7.md)
+  * [Say hello to x86_64 Assembly part 8](https://github.com/0xAX/asm/blob/master/content/asm_8.md)
 
 ## Requirements
 
@@ -42,6 +42,9 @@ To run code examples, you need the following tools:
 ## Translations
 
 Thanks to the volunteers, the posts about assembly programming are translated into different languages.
+
+> [!NOTE] 
+> The translations may diverge from the original content.
 
 ### Chinese translation
 
@@ -64,6 +67,10 @@ Thanks to the volunteers, the posts about assembly programming are translated in
   * [X86_64 Assembly'a merhaba deyin bölüm 6](https://github.com/furkanonder/asm/blob/master/bolumler/6.md)
   * [X86_64 Assembly'a merhaba deyin bölüm 7](https://github.com/furkanonder/asm/blob/master/bolumler/7.md)
   * [X86_64 Assembly'a merhaba deyin bölüm 8](https://github.com/furkanonder/asm/blob/master/bolumler/8.md)
+
+## Contribution 
+
+Read the [Contribution guide](./CONTRIBUTING.md) to learn how to contribute to the project. When contributing, make sure to follow the [Code of Conduct](./CODE_OF_CONDUCT.md).
 
 ## License
 
