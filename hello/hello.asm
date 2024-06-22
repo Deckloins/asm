@@ -1,6 +1,6 @@
 ;; Definition of the `data` section
 section .data
-    ;; String `msg` contant with the value `hello world!`
+    ;; The content of the string `msg` with the value `hello world!`
     msg db      "hello, world!"
 
 ;; Definition of the text section
@@ -8,9 +8,9 @@ section .text
     ;; Reference to the entry point of our program
     global _start
 
-;; entry point
+;; Entry point
 _start:
-    ;; Number of the system call. 1 - `sys_write`.
+    ;; Number of the system call. The system call number 1 is `sys_write`.
     mov     rax, 1
     ;; The first argument of the `sys_write` system call.
     mov     rdi, 1
@@ -20,7 +20,7 @@ _start:
     mov     rdx, 13
     ;; Call the `sys_write` system call.
     syscall
-    ;; Number of the system call. 60 - `sys_exit`.
+    ;; Number of the system call. The system call number 60 is `sys_exit`.
     mov    rax, 60
     ;; The first argument of the `sys_exit` system call.
     mov    rdi, 0
